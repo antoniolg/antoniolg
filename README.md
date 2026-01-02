@@ -1,41 +1,54 @@
-# 👋 Hi there, my name is Antonio Leiva
-### I'm a Kotlin Freelance Trainer, Kotlin GDE and JetBrains Training Partner
+# Hi, I'm Antonio 👋
 
-![https://github.com/antoniolg](https://yt3.ggpht.com/V94-R66lnyAKjlb4LGhoxF1_XuNTeA6Y5r2WYrb3x6EYbqIw1Yh_uxUddgQACOmBJYPMFJ-FMXA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+📍 **Madrid, Spain** | 🚀 **Building in the future** | 🤖 **Android + AI educator & builder**
 
-I help developers reach their goals with my training and mentoring.
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 
-## Learn with me
+> Building in public, sharing the process, and turning experiments into tools and courses.
 
-🎁 Free Masterclass: [Revienta tu productividad en Android con Kotlin](https://devexperto.com/training-gratis?utm_source=github) / [Boost your Android productivity with Kotlin](https://antonioleiva.com/free-training)
+## Current Projects
 
-🥉 Book: [Kotlin For Android Developers](https://antonioleiva.com/book)</br>
-🥈 Training: [Kotlin Para Desarrolladores Android](https://devexperto.com/curso-kotlin-online) / [Kotlin for Android Developers](https://antonioleiva.com/online-course)</br>
-🥇 Program: [Architect Coders](https://architectcoders.com)
+### Tools
 
-## Skills:
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
-![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
+- **[justdoit](https://github.com/antoniolg/justdoit)** — A task manager CLI that integrates with Google Calendar & Google Tasks
+- **[youtube-banger](https://github.com/antoniolg/youtube-banger)** — App that connects to YouTube APIs to bring improve channel performance, based on competence and analytics.
+- **[youtube-release-app](https://github.com/antoniolg/youtube-release-app)** — App to prepare everything to post a YouTube Video
 
-## Find me at:
+### AI
 
-### Spanish
-[![Web](https://img.shields.io/badge/Mi_Sitio_Web-devexperto.com-14a1f0?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://devexperto.com)
-[![YouTube](https://img.shields.io/badge/YouTube-DevExperto-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://devexperto.com/youtube)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio_Leiva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://devexperto.com/linkedin)
-[![Instagram](https://img.shields.io/badge/Instagram-@devexperto-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://devexperto.com/instagram)
-[![Twitter](https://img.shields.io/badge/Twitter-@devexperto1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://devexperto.com/twitter)
+- **[agent-skills](https://github.com/antoniolg/agent-skills)** — A collection of skills for AI agents
+- **[gemini-image-mcp-server](https://github.com/antoniolg/gemini-image-mcp-server)** — MCP Server for generating images with Google Gemini AI
+- **[listmonk-cli](https://github.com/antoniolg/listmonk-cli)** — CLI for Listmonk newsletter software
+- **[listmonk-mcp](https://github.com/antoniolg/listmonk-mcp)** — MCP in Kotlin for Listmonk newsletter software (will be absorbed by the CLI)
+- **[play-store-mcp](https://github.com/antoniolg/play-store-mcp)** — An MCP server that connects to Play Store Console and release new App versions from an MCP Client
+- **[holded-mcp](https://github.com/antoniolg/holded-mcp)** — MCP to integrate with Holded accounting platform
+- **[postiz-mcp](https://github.com/antoniolg/postiz-mcp)** — MCP server for Postiz API integration
 
-### English
-[![Web](https://img.shields.io/badge/My_Website-antonioleiva.com-14a1f0?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://antonioleiva.com)
-[![YouTube](https://img.shields.io/badge/YouTube-Antonio_Leiva-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/antoniolg28)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio_Leiva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://devexperto.com/linkedin)
-[![Instagram](https://img.shields.io/badge/Instagram-@antonioleivag-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/antonioleivag)
-[![Twitter](https://img.shields.io/badge/Twitter-@lime_cl-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/lime_cl)
+## Most Starred / Legacy
 
-## Contact me:
+- ⭐ **[androidmvp](https://github.com/antoniolg/androidmvp)** — MVP Android Example
+- ⭐ **[Kotlin-for-Android-Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers)** — Companion app for the book
+- ⭐ **[Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin)** — Showcase music app written in Kotlin
+- ⭐ **[MaterialEverywhere](https://github.com/antoniolg/MaterialEverywhere)** — Material Design showcase
+- ⭐ **[MaterializeYourApp](https://github.com/antoniolg/MaterializeYourApp)** — Material app example
 
-[![Email](https://img.shields.io/badge/Español-devexperto.com-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://devexperto.com/contacto)
+## Training
 
-[![Email](https://img.shields.io/badge/English-antonioleiva.com-72ae2d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://antonioleiva.com/contact)
+- 🎓 **[AI Expert](https://devexpert.io/cursos/expert/ai)** — Advanced AI program (ES)
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/antoniolg)
+
+## Connect
+
+- X (ES): **[@antonioleivag](https://x.com/antonioleivag)**
+- X (EN): **[@leiva_dev](https://x.com/leiva_dev)**
+- YouTube: **[DevExpert](https://www.youtube.com/@devexpert_io)**
+- LinkedIn: **[Antonio Leiva](https://www.linkedin.com/in/antonio-devexpert/)**
+- Blog (EN): **[antonioleiva.com](https://antonioleiva.com)**
+- Blog (ES): **[devexpert.io](https://devexpert.io)**
