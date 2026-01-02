@@ -52,9 +52,9 @@
 
 ## Connect
 
-- X (ES): **[@antonioleivag](https://x.com/antonioleivag)**
-- X (EN): **[@leiva_dev](https://x.com/leiva_dev)**
-- YouTube: **[DevExpert](https://www.youtube.com/@devexpert_io)**
-- LinkedIn: **[Antonio Leiva](https://www.linkedin.com/in/antonio-devexpert/)**
-- Blog (EN): **[antonioleiva.com](https://antonioleiva.com)**
-- Blog (ES): **[devexpert.io](https://devexpert.io)**
+[![X (ES)](https://img.shields.io/badge/-@antonioleivag-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/antonioleivag)
+[![X (EN)](https://img.shields.io/badge/-@leiva__dev-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/leiva_dev)
+[![YouTube](https://img.shields.io/badge/-DevExpert-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@devexpert_io)
+[![LinkedIn](https://img.shields.io/badge/-Antonio_Leiva-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-devexpert/)
+[![Blog (EN)](https://img.shields.io/badge/-antonioleiva.com-FF5722?style=flat-square&logo=astro&logoColor=white)](https://antonioleiva.com)
+[![Blog (ES)](https://img.shields.io/badge/-devexpert.io-0B7285?style=flat-square&logo=ghost&logoColor=white)](https://devexpert.io)
