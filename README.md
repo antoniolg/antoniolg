@@ -73,4 +73,4 @@
 - **[MCPs con Kotlin: Creando Superpoderes para tu Asistente IA](https://www.youtube.com/watch?v=UC6aoGv02UA&list=PLrn69hTK5FBxXi7KFPnIc3fOTjqFANcub&index=2&pp=iAQB0gcJCU0KAYcqIYzv)**
 - **[Explorando Gemini Nano: Integración de IA en Apps Android](https://www.youtube.com/watch?v=_2SFUh-XO64&list=PLrn69hTK5FBxXi7KFPnIc3fOTjqFANcub&index=3&pp=iAQB)**
 - **[Mastering Recompositions in Compose](https://www.youtube.com/watch?v=ufJ9UehyWt8&list=PLrn69hTK5FBxXi7KFPnIc3fOTjqFANcub&index=5&pp=iAQB)**
-- **[Antonio Leiva: "Kotlin Multiplatform: la tecnología multiplataforma del futuro - Commit 2024".](https://www.youtube.com/watch?v=gmxvqYHCHM0&list=PLrn69hTK5FBxXi7KFPnIc3fOTjqFANcub&index=6&pp=iAQB)**
+- **[Kotlin Multiplatform: la tecnología multiplataforma del futuro - Commit 2024](https://www.youtube.com/watch?v=gmxvqYHCHM0&list=PLrn69hTK5FBxXi7KFPnIc3fOTjqFANcub&index=6&pp=iAQB)**
