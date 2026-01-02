@@ -10,6 +10,8 @@
 
 > Building in public, sharing the process, and turning experiments into tools and courses.
 
+![GitHub Contribution Graph](https://ghchart.rshah.org/antoniolg)
+
 ## Current Projects
 
 ### Tools
@@ -47,10 +49,6 @@
 - **[LLM Duel: Gemini 3 Flash vs Opus 4.5 vs GPT-5.2-Codex vs GLM-4.7](https://antonioleiva.com/llm-duel-gemini-opus-gpt-glm/)**
 - **[Closing the AI Loop in Software Development](https://antonioleiva.com/closing-circle-ai/)**
 - **[How to deploy an Astro SSR app to Coolify](https://antonioleiva.com/astro-ssr-coolify/)**
-
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/antoniolg)
 
 ## Connect
 
