@@ -14,19 +14,19 @@
 
 ### Tools
 
-- **[justdoit](https://github.com/antoniolg/justdoit)** — A task manager CLI that integrates with Google Calendar & Google Tasks
-- **[youtube-banger](https://github.com/antoniolg/youtube-banger)** — App that connects to YouTube APIs to bring improve channel performance, based on competence and analytics.
-- **[youtube-release-app](https://github.com/antoniolg/youtube-release-app)** — App to prepare everything to post a YouTube Video
+- 🧰 **[justdoit](https://github.com/antoniolg/justdoit)** — A task manager CLI that integrates with Google Calendar & Google Tasks
+- 📈 **[youtube-banger](https://github.com/antoniolg/youtube-banger)** — App that connects to YouTube APIs to bring improve channel performance, based on competence and analytics.
+- 🎬 **[youtube-release-app](https://github.com/antoniolg/youtube-release-app)** — App to prepare everything to post a YouTube Video
 
 ### AI
 
-- **[agent-skills](https://github.com/antoniolg/agent-skills)** — A collection of skills for AI agents
-- **[gemini-image-mcp-server](https://github.com/antoniolg/gemini-image-mcp-server)** — MCP Server for generating images with Google Gemini AI
-- **[listmonk-cli](https://github.com/antoniolg/listmonk-cli)** — CLI for Listmonk newsletter software
-- **[listmonk-mcp](https://github.com/antoniolg/listmonk-mcp)** — MCP in Kotlin for Listmonk newsletter software (will be absorbed by the CLI)
-- **[play-store-mcp](https://github.com/antoniolg/play-store-mcp)** — An MCP server that connects to Play Store Console and release new App versions from an MCP Client
-- **[holded-mcp](https://github.com/antoniolg/holded-mcp)** — MCP to integrate with Holded accounting platform
-- **[postiz-mcp](https://github.com/antoniolg/postiz-mcp)** — MCP server for Postiz API integration
+- 🧩 **[agent-skills](https://github.com/antoniolg/agent-skills)** — A collection of skills for AI agents
+- 🖼️ **[gemini-image-mcp-server](https://github.com/antoniolg/gemini-image-mcp-server)** — MCP Server for generating images with Google Gemini AI
+- 📨 **[listmonk-cli](https://github.com/antoniolg/listmonk-cli)** — CLI for Listmonk newsletter software
+- 🔌 **[listmonk-mcp](https://github.com/antoniolg/listmonk-mcp)** — MCP in Kotlin for Listmonk newsletter software (will be absorbed by the CLI)
+- 📦 **[play-store-mcp](https://github.com/antoniolg/play-store-mcp)** — An MCP server that connects to Play Store Console and release new App versions from an MCP Client
+- 🧾 **[holded-mcp](https://github.com/antoniolg/holded-mcp)** — MCP to integrate with Holded accounting platform
+- 🗓️ **[postiz-mcp](https://github.com/antoniolg/postiz-mcp)** — MCP server for Postiz API integration
 
 ## Most Starred / Legacy
 
@@ -39,6 +39,14 @@
 ## Training
 
 - 🎓 **[AI Expert](https://devexpert.io/cursos/expert/ai)** — Advanced AI program (ES)
+
+## Latest Blog Posts
+
+- **[The year AI threatened our jobs: 2025 review and goals for 2026](https://antonioleiva.com/analysis-2025-goals-2026/)**
+- **[Do we need training to use AI?](https://antonioleiva.com/need-ai-training/)**
+- **[LLM Duel: Gemini 3 Flash vs Opus 4.5 vs GPT-5.2-Codex vs GLM-4.7](https://antonioleiva.com/llm-duel-gemini-opus-gpt-glm/)**
+- **[Closing the AI Loop in Software Development](https://antonioleiva.com/closing-circle-ai/)**
+- **[How to deploy an Astro SSR app to Coolify](https://antonioleiva.com/astro-ssr-coolify/)**
 
 ## GitHub Activity
 
