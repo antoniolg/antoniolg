@@ -10,6 +10,8 @@
 
 > Building in public, sharing the process, and turning experiments into tools and courses.
 
+🍭 **[devexpert.io](https://devexpert.io)** — Spanish-speaking platform for Android, AI, and software development.
+
 ![GitHub Contribution Graph](https://ghchart.rshah.org/antoniolg)
 
 ## Current Projects
