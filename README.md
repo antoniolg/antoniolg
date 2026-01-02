@@ -16,7 +16,7 @@
 
 ## Current Projects
 
-## Recognition
+## Milestones
 
 - **Google Developer Expert (Android)**
 - **JetBrains Training Partner**
