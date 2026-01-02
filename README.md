@@ -16,13 +16,6 @@
 
 ## Current Projects
 
-## Milestones
-
-- **Google Developer Expert (Android)**
-- **JetBrains Training Partner**
-- **International Speaker**
-- **56k+ followers on YouTube**
-
 ### Tools
 
 - 🧰 **[justdoit](https://github.com/antoniolg/justdoit)** — A task manager CLI that integrates with Google Calendar & Google Tasks
@@ -67,3 +60,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-devexpert/)
 [![Blog (EN)](https://img.shields.io/badge/-antonioleiva.com-FF5722?style=flat-square&logo=astro&logoColor=white)](https://antonioleiva.com)
 [![Blog (ES)](https://img.shields.io/badge/-devexpert.io-0B7285?style=flat-square&logo=ghost&logoColor=white)](https://devexpert.io)
+
+## Milestones
+
+- **Google Developer Expert (Android)**
+- **JetBrains Training Partner**
+- **International Speaker**
+- **56k+ followers on YouTube**
