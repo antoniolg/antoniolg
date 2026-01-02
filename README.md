@@ -16,6 +16,13 @@
 
 ## Current Projects
 
+## Recognition
+
+- **Google Developer Expert (Android)**
+- **JetBrains Training Partner**
+- **International Speaker**
+- **56k+ followers on YouTube**
+
 ### Tools
 
 - 🧰 **[justdoit](https://github.com/antoniolg/justdoit)** — A task manager CLI that integrates with Google Calendar & Google Tasks
