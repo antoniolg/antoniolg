@@ -18,6 +18,7 @@
 
 ### Tools
 
+- 🤖 **[aipal](https://github.com/antoniolg/aipal)** — Telegram bot that forwards messages to a local CLI agent (Codex by default)
 - 🧰 **[justdoit](https://github.com/antoniolg/justdoit)** — A task manager CLI that integrates with Google Calendar & Google Tasks
 - 📈 **[youtube-banger](https://github.com/antoniolg/youtube-banger)** — App that connects to YouTube APIs to bring improve channel performance, based on competence and analytics.
 - 🎬 **[youtube-release-app](https://github.com/antoniolg/youtube-release-app)** — App to prepare everything to post a YouTube Video
@@ -46,11 +47,11 @@
 
 ## Latest Blog Posts
 
+- **[How I reorganized all my repos with AI (and fixed my GitHub profiles in the process)](https://antonioleiva.com/how-i-reorganized-all-my-repos-with-ai-and-fixed-my-github-profiles-in-the-process/)**
 - **[The year AI threatened our jobs: 2025 review and goals for 2026](https://antonioleiva.com/analysis-2025-goals-2026/)**
 - **[Do we need training to use AI?](https://antonioleiva.com/need-ai-training/)**
 - **[LLM Duel: Gemini 3 Flash vs Opus 4.5 vs GPT-5.2-Codex vs GLM-4.7](https://antonioleiva.com/llm-duel-gemini-opus-gpt-glm/)**
 - **[Closing the AI Loop in Software Development](https://antonioleiva.com/closing-circle-ai/)**
-- **[How to deploy an Astro SSR app to Coolify](https://antonioleiva.com/astro-ssr-coolify/)**
 
 ## Connect
 
