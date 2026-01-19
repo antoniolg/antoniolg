@@ -25,7 +25,7 @@
 
 ### AI
 
-- 🧩 **[agent-skills](https://github.com/antoniolg/agent-skills)** — A collection of skills for AI agents
+- 🧩 **[agent-kit](https://github.com/antoniolg/agent-kit)** — A collection of skills for AI agents
 - 🖼️ **[gemini-image-mcp-server](https://github.com/antoniolg/gemini-image-mcp-server)** — MCP Server for generating images with Google Gemini AI
 - 📨 **[listmonk-cli](https://github.com/antoniolg/listmonk-cli)** — CLI for Listmonk newsletter software
 - 🔌 **[listmonk-mcp](https://github.com/antoniolg/listmonk-mcp)** — MCP in Kotlin for Listmonk newsletter software (will be absorbed by the CLI)
