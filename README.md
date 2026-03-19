@@ -20,6 +20,7 @@
 
 - 🤖 **[aipal](https://github.com/antoniolg/aipal)** — Telegram bot that forwards messages to a local CLI agent (Codex by default)
 - 🧰 **[justdoit](https://github.com/antoniolg/justdoit)** — A task manager CLI that integrates with Google Calendar & Google Tasks
+- 📣 **[postflow](https://github.com/antoniolg/postflow)** — Social publishing service with Web UI, HTTP API, MCP endpoint, and CLI
 - 📈 **[youtube-banger](https://github.com/antoniolg/youtube-banger)** — App that connects to YouTube APIs to bring improve channel performance, based on competence and analytics.
 - 🎬 **[youtube-release-app](https://github.com/antoniolg/youtube-release-app)** — App to prepare everything to post a YouTube Video
 
