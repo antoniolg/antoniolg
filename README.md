@@ -14,10 +14,6 @@ I build software with AI agents and teach other developers to do the same. Found
 [![YouTube](https://img.shields.io/badge/YouTube-64.8K_subscribers-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@devexpert_io)
 <!-- youtube-subs:end -->
 [![GitHub followers](https://img.shields.io/github/followers/antoniolg?style=flat-square&logo=github&label=Followers&color=15171C)](https://github.com/antoniolg?tab=followers)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
 <!-- now:start -->
 🛠️ Last commit (2026-11-06) in **[devdays-agenda-mcp](https://github.com/antoniolg/devdays-agenda-mcp)**: `Slides actualizadas: QR al repo en la slide de preguntas`
