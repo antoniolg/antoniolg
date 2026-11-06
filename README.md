@@ -1,78 +1,66 @@
 # Hi, I'm Antonio 👋
 
-📍 **Madrid, Spain** | 🚀 **Building in the future** | 🤖 **Android + AI educator & builder**
+I build software with AI agents and teach other developers to do the same. Founder of [DevExpert](https://devexpert.io), Google Developer Expert for Android, based in Madrid.
+
+On **[antonioleiva.com](https://antonioleiva.com/en)** every project has its own page: what it is, which agents I built it with and what I learned.
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
-> Building in public, sharing the process, and turning experiments into tools and courses.
+## What I'm building
 
-🍭 **[devexpert.io](https://devexpert.io)** — Spanish-speaking platform for Android, AI, and software development.
+- 📱 **[remote-sessions](https://github.com/antoniolg/remote-sessions)**: An iOS and Android app that lists your Claude Code conversations and resumes any of them from your phone with Remote Control.
+- 📣 **[postflow](https://github.com/antoniolg/postflow)**: Self-hosted social media publishing. Web UI, HTTP API, MCP endpoint and CLI in a single service.
+- 🎚️ **[next-dj](https://github.com/antoniolg/next-dj)**: An open-source desktop DJ console. Two decks, waveforms, EQ, filters and session recording.
+- 🧭 **[development-agent-dashboard](https://github.com/antoniolg/development-agent-dashboard)**: A local panel to see and edit the AGENTS.md and skills of each Codex project.
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/antoniolg)
+Also in progress, not public yet: a [wall tablet dashboard](https://antonioleiva.com/en/projects/tablero), a [proactive personal agent](https://antonioleiva.com/en/projects/aibot), a [rally game](https://antonioleiva.com/en/projects/g-rally) and a [1984 beat 'em up](https://antonioleiva.com/en/projects/silicon-streets). All of them are on [my projects page](https://antonioleiva.com/en/projects).
 
-## Current Projects
+## Tools I use every day
 
-### Tools
+- 🧩 **[agent-kit](https://github.com/antoniolg/agent-kit)**: My catalogue of skills for agents. Email, invoices, YouTube publishing, Slack, WhatsApp and a few more.
+- 🛠️ **[harness-starter](https://github.com/devexpert-io/harness-starter)**: Four skills to go from an idea to your first verified feature with Claude Code, Codex or OpenCode.
+- 📨 **[listmonk-cli](https://github.com/antoniolg/listmonk-cli)**: Manage Listmonk campaigns, lists, subscribers and templates from the terminal or from an agent.
+- 🗓️ **[justdoit](https://github.com/antoniolg/justdoit)**: A time-blocking CLI on top of Google Tasks and Google Calendar.
+- 🤖 **[aipal](https://github.com/antoniolg/aipal)**: A Telegram bot that sends each message to a local agent (Codex, Claude, Gemini or OpenCode) and gives you back the result.
 
-- 🤖 **[aipal](https://github.com/antoniolg/aipal)** — Telegram bot that forwards messages to a local CLI agent (Codex by default)
-- 🧰 **[justdoit](https://github.com/antoniolg/justdoit)** — A task manager CLI that integrates with Google Calendar & Google Tasks
-- 📣 **[postflow](https://github.com/antoniolg/postflow)** — Social publishing service with Web UI, HTTP API, MCP endpoint, and CLI
-- 📈 **[youtube-banger](https://github.com/antoniolg/youtube-banger)** — App that connects to YouTube APIs to bring improve channel performance, based on competence and analytics.
-- 🎬 **[youtube-release-app](https://github.com/antoniolg/youtube-release-app)** — App to prepare everything to post a YouTube Video
+`postflow`, `listmonk-cli` and `justdoit` install with Homebrew: `brew install antoniolg/tap/<name>`.
 
-### AI
+## Latest writing
 
-- 🧩 **[agent-kit](https://github.com/antoniolg/agent-kit)** — A collection of skills for AI agents, plus AGENTS.md
-- 🖼️ **[gemini-image-mcp-server](https://github.com/antoniolg/gemini-image-mcp-server)** — MCP Server for generating images with Google Gemini AI
-- 📨 **[listmonk-cli](https://github.com/antoniolg/listmonk-cli)** — CLI for Listmonk newsletter software
-- 🔌 **[listmonk-mcp](https://github.com/antoniolg/listmonk-mcp)** — MCP in Kotlin for Listmonk newsletter software (will be absorbed by the CLI)
-- 📦 **[play-store-mcp](https://github.com/antoniolg/play-store-mcp)** — An MCP server that connects to Play Store Console and release new App versions from an MCP Client
-- 🧾 **[holded-mcp](https://github.com/antoniolg/holded-mcp)** — MCP to integrate with Holded accounting platform
-- 🗓️ **[postiz-mcp](https://github.com/antoniolg/postiz-mcp)** — MCP server for Postiz API integration
+- [I Dropped AeroSpace for Hammerspoon: Shortcuts to Jump Between Apps on macOS](https://antonioleiva.com/hammerspoon-app-shortcuts-macos)
+- [What Is Loop Engineering? A Practical Codex Example](https://antonioleiva.com/what-is-loop-engineering-practical-codex-example)
+- [A 1Password Runtime for Local Agents and Desktop Apps](https://antonioleiva.com/1password-runtime-local-agents-desktop-apps)
+- [MCPs Are More Alive Than Ever](https://antonioleiva.com/mcps-are-more-alive-than-ever)
 
-## Most Starred / Legacy
+More on [the blog](https://antonioleiva.com/en/blog). In Spanish, every week in the [DevExpert newsletter](https://devexpert.io/newsletter).
 
-- ⭐ **[androidmvp](https://github.com/antoniolg/androidmvp)** — MVP Android Example
-- ⭐ **[Kotlin-for-Android-Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers)** — Companion app for the book
-- ⭐ **[Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin)** — Showcase music app written in Kotlin
-- ⭐ **[MaterialEverywhere](https://github.com/antoniolg/MaterialEverywhere)** — Material Design showcase
-- ⭐ **[MaterializeYourApp](https://github.com/antoniolg/MaterializeYourApp)** — Material app example
+## Recent talks
 
-## Training
+- **Your harness with subagents: a workflow that validates itself**. Samsung Dev Spain, Madrid (Sep 2026)
+- **[An agent in your pocket](https://youtu.be/V5N1ydi01Pw)**. Commit Conf 2026, Madrid (Jun 2026)
+- **Agent Skills in the age of AI**. Samsung Dev Spain, Madrid (Apr 2026)
 
-- 🎓 **[AI Expert](https://devexpert.io/cursos/expert/ai)** — Advanced AI program (ES)
+The full list, with videos, is on [the talks page](https://antonioleiva.com/en/talks).
 
-## Latest Blog Posts
+## From the Android years
 
-- **[How I reorganized all my repos with AI (and fixed my GitHub profiles in the process)](https://antonioleiva.com/how-i-reorganized-all-my-repos-with-ai-and-fixed-my-github-profiles-in-the-process/)**
-- **[The year AI threatened our jobs: 2025 review and goals for 2026](https://antonioleiva.com/analysis-2025-goals-2026/)**
-- **[Do we need training to use AI?](https://antonioleiva.com/need-ai-training/)**
-- **[LLM Duel: Gemini 3 Flash vs Opus 4.5 vs GPT-5.2-Codex vs GLM-4.7](https://antonioleiva.com/llm-duel-gemini-opus-gpt-glm/)**
-- **[Closing the AI Loop in Software Development](https://antonioleiva.com/closing-circle-ai/)**
+These repos are archived, but they still get visits:
+
+- ⭐ **[androidmvp](https://github.com/antoniolg/androidmvp)**: MVP example for Android.
+- ⭐ **[Kotlin-for-Android-Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers)**: Companion app for my book.
+- ⭐ **[Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin)**: A music app written in Kotlin.
+- ⭐ **[MaterialEverywhere](https://github.com/antoniolg/MaterialEverywhere)** and **[MaterializeYourApp](https://github.com/antoniolg/MaterializeYourApp)**: Material Design examples.
 
 ## Connect
 
-[![X (ES)](https://img.shields.io/badge/-@antonioleivag-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/antonioleivag)
-[![X (EN)](https://img.shields.io/badge/-@leiva__dev-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/leiva_dev)
+[![Blog](https://img.shields.io/badge/-antonioleiva.com-FF5722?style=flat-square&logo=astro&logoColor=white)](https://antonioleiva.com/en)
+[![DevExpert](https://img.shields.io/badge/-devexpert.io-0B7285?style=flat-square&logoColor=white)](https://devexpert.io)
 [![YouTube](https://img.shields.io/badge/-DevExpert-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@devexpert_io)
+[![X (ES)](https://img.shields.io/badge/-@antonioleivag-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/antonioleivag)
+[![X (EN)](https://img.shields.io/badge/-@leiva__dev-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/leiva_dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-devexpert/)
-[![Blog (EN)](https://img.shields.io/badge/-antonioleiva.com-FF5722?style=flat-square&logo=astro&logoColor=white)](https://antonioleiva.com)
-[![Blog (ES)](https://img.shields.io/badge/-devexpert.io-0B7285?style=flat-square&logo=ghost&logoColor=white)](https://devexpert.io)
-
-## Milestones
-
-- **Google Developer Expert (Android)**
-- **JetBrains Training Partner**
-- **International Speaker**
-- **56k+ followers on YouTube**
-
-## Latest talks
-
-- **[MCPs con Kotlin: Creando Superpoderes para tu Asistente IA](https://www.youtube.com/watch?v=UC6aoGv02UA&list=PLrn69hTK5FBxXi7KFPnIc3fOTjqFANcub&index=2&pp=iAQB0gcJCU0KAYcqIYzv)**
-- **[Explorando Gemini Nano: Integración de IA en Apps Android](https://www.youtube.com/watch?v=_2SFUh-XO64&list=PLrn69hTK5FBxXi7KFPnIc3fOTjqFANcub&index=3&pp=iAQB)**
-- **[Mastering Recompositions in Compose](https://www.youtube.com/watch?v=ufJ9UehyWt8&list=PLrn69hTK5FBxXi7KFPnIc3fOTjqFANcub&index=5&pp=iAQB)**
-- **[Kotlin Multiplatform: la tecnología multiplataforma del futuro - Commit 2024](https://www.youtube.com/watch?v=gmxvqYHCHM0&list=PLrn69hTK5FBxXi7KFPnIc3fOTjqFANcub&index=6&pp=iAQB)**
