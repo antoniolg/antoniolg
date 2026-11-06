@@ -94,7 +94,10 @@ async function hitl() {
   const i = plain.findIndex((l) => /^(lunes|martes|miércoles|jueves|viernes|sábado|domingo) \d{1,2} [a-z]{3}/i.test(l));
   if (i < 0) throw new Error('hitl: no date');
   const when = plain[i];
-  const where = plain.slice(i + 1, i + 4).join(' ').replace(/\s*·\s*/g, ', ').replace(/,\s*$/, '');
+  // After the date the page lists «dónde», the place lines and then «formato».
+  const after = plain.slice(i + 1, i + 8);
+  const end = after.findIndex((l) => /^formato$/i.test(l));
+  const where = after.slice(0, end < 0 ? 3 : end).filter((l) => !/^dónde$/i.test(l)).join(' ').replace(/\s*·\s*/g, ', ').replace(/[,\s]+$/, '');
   const luma = html.match(/https:\/\/(?:lu\.ma|luma\.com)\/[A-Za-z0-9_-]+/)?.[0] ?? 'https://hitl.day';
   return `🧑‍🤝‍🧑 **Próximo Humans in the Loop: ${when}** (${where}). En persona y gratis. [Apúntate en Luma →](${luma})`;
 }
