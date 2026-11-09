@@ -16,7 +16,7 @@ I build software with AI agents and teach other developers to do the same. Found
 [![GitHub followers](https://img.shields.io/github/followers/antoniolg?style=flat-square&logo=github&label=Followers&color=15171C)](https://github.com/antoniolg?tab=followers)
 
 <!-- now:start -->
-🛠️ Last commit (2026-11-06) in **[devdays-agenda-mcp](https://github.com/antoniolg/devdays-agenda-mcp)**: `Slides actualizadas: QR al repo en la slide de preguntas`
+🛠️ Last commit (2026-11-06) in **[devdays-agenda-mcp](https://github.com/antoniolg/devdays-agenda-mcp)**: `README: badges más discretos`
 <!-- now:end -->
 
 ## What I'm building
