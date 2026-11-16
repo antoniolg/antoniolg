@@ -16,7 +16,7 @@ I build software with AI agents and teach other developers to do the same. Found
 [![GitHub followers](https://img.shields.io/github/followers/antoniolg?style=flat-square&logo=github&label=Followers&color=15171C)](https://github.com/antoniolg?tab=followers)
 
 <!-- now:start -->
-🛠️ Last commit (2026-11-06) in **[devdays-agenda-mcp](https://github.com/antoniolg/devdays-agenda-mcp)**: `README: badges más discretos`
+🛠️ Last commit (2026-11-16) in **[postflow](https://github.com/antoniolg/postflow)**: `fix(linkedin): list mentions whose URN has escaped characters`
 <!-- now:end -->
 
 ## What I'm building
@@ -73,10 +73,10 @@ And [a proactive personal agent](https://antonioleiva.com/en/projects/aibot) tha
 <!-- releases:start -->
 | Tool | Latest release | Date |
 | --- | --- | --- |
+| [postflow](https://github.com/antoniolg/postflow) | [v0.8.2](https://github.com/antoniolg/postflow/releases/tag/v0.8.2) | 2026-11-16 |
+| [remote-sessions](https://github.com/antoniolg/remote-sessions) | [v0.2.6](https://github.com/antoniolg/remote-sessions/releases/tag/v0.2.6) | 2026-11-11 |
+| [next-dj](https://github.com/antoniolg/next-dj) | [v0.1.7](https://github.com/antoniolg/next-dj/releases/tag/v0.1.7) | 2026-11-11 |
 | [justdoit](https://github.com/antoniolg/justdoit) | [v0.1.6](https://github.com/antoniolg/justdoit/releases/tag/v0.1.6) | 2026-11-06 |
-| [postflow](https://github.com/antoniolg/postflow) | [v0.6.0](https://github.com/antoniolg/postflow/releases/tag/v0.6.0) | 2026-11-05 |
-| [remote-sessions](https://github.com/antoniolg/remote-sessions) | [v0.2.5](https://github.com/antoniolg/remote-sessions/releases/tag/v0.2.5) | 2026-10-14 |
-| [next-dj](https://github.com/antoniolg/next-dj) | [v0.1.5](https://github.com/antoniolg/next-dj/releases/tag/v0.1.5) | 2026-07-16 |
 | [listmonk-cli](https://github.com/antoniolg/listmonk-cli) | [v0.1.0](https://github.com/antoniolg/listmonk-cli/releases/tag/v0.1.0) | 2026-05-14 |
 | [aipal](https://github.com/antoniolg/aipal) | [v0.4.0](https://github.com/antoniolg/aipal/releases/tag/v0.4.0) | 2026-03-27 |
 <!-- releases:end -->
@@ -99,7 +99,7 @@ In Spanish, on the [DevExpert channel](https://www.youtube.com/@devexpert_io):
 
 <table>
 <tr><td width="50%" valign="top"><a href="https://www.youtube.com/watch?v=G5RkSRNaIuE"><img src="https://i.ytimg.com/vi/G5RkSRNaIuE/mqdefault.jpg" alt="Me monté mi propio ChatGPT Dots con Hermes" width="100%"></a><br><sub>Me monté mi propio ChatGPT Dots con Hermes</sub></td><td width="50%" valign="top"><a href="https://www.youtube.com/watch?v=sasgoZTgZHQ"><img src="https://i.ytimg.com/vi/sasgoZTgZHQ/mqdefault.jpg" alt="Convertí una tablet vieja en el panel de mi día" width="100%"></a><br><sub>Convertí una tablet vieja en el panel de mi día</sub></td></tr>
-<tr><td width="50%" valign="top"><a href="https://www.youtube.com/watch?v=D2xWH-rNQq8"><img src="https://i.ytimg.com/vi/D2xWH-rNQq8/mqdefault.jpg" alt="Puse un modelo de decisión a vigilar a mi agente" width="100%"></a><br><sub>Puse un modelo de decisión a vigilar a mi agente</sub></td><td width="50%" valign="top"><a href="https://www.youtube.com/watch?v=ZLP-49T5gW4"><img src="https://i.ytimg.com/vi/ZLP-49T5gW4/mqdefault.jpg" alt="Qué son los embeddings, explicado con tus fotos" width="100%"></a><br><sub>Qué son los embeddings, explicado con tus fotos</sub></td></tr>
+<tr><td width="50%" valign="top"><a href="https://www.youtube.com/watch?v=D2xWH-rNQq8"><img src="https://i.ytimg.com/vi/D2xWH-rNQq8/mqdefault.jpg" alt="Modelos de decisión: la IA que no escribe" width="100%"></a><br><sub>Modelos de decisión: la IA que no escribe</sub></td><td width="50%" valign="top"><a href="https://www.youtube.com/watch?v=ZLP-49T5gW4"><img src="https://i.ytimg.com/vi/ZLP-49T5gW4/mqdefault.jpg" alt="Qué son los embeddings, explicado con tus fotos" width="100%"></a><br><sub>Qué son los embeddings, explicado con tus fotos</sub></td></tr>
 </table>
 <!-- videos:end -->
 
