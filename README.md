@@ -11,12 +11,12 @@ I build software with AI agents and teach other developers to do the same. Found
 [![AI Expert](https://img.shields.io/badge/AI_Expert-The_program-8989FF?style=for-the-badge&labelColor=15171C)](https://devexpert.io/cursos/expert/ai)
 
 <!-- youtube-subs:start -->
-[![YouTube](https://img.shields.io/badge/YouTube-64.8K_subscribers-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@devexpert_io)
+[![YouTube](https://img.shields.io/badge/YouTube-64.9K_subscribers-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@devexpert_io)
 <!-- youtube-subs:end -->
 [![GitHub followers](https://img.shields.io/github/followers/antoniolg?style=flat-square&logo=github&label=Followers&color=15171C)](https://github.com/antoniolg?tab=followers)
 
 <!-- now:start -->
-🛠️ Last commit (2026-11-16) in **[postflow](https://github.com/antoniolg/postflow)**: `fix(linkedin): list mentions whose URN has escaped characters`
+🛠️ Last commit (2026-11-18) in **[release-board](https://github.com/antoniolg/release-board)**: `deps: Vite 8 en el cliente y CSRF sin csurf (parches de seguridad)`
 <!-- now:end -->
 
 ## What I'm building
@@ -73,7 +73,7 @@ And [a proactive personal agent](https://antonioleiva.com/en/projects/aibot) tha
 <!-- releases:start -->
 | Tool | Latest release | Date |
 | --- | --- | --- |
-| [postflow](https://github.com/antoniolg/postflow) | [v0.8.2](https://github.com/antoniolg/postflow/releases/tag/v0.8.2) | 2026-11-16 |
+| [postflow](https://github.com/antoniolg/postflow) | [v0.8.3](https://github.com/antoniolg/postflow/releases/tag/v0.8.3) | 2026-11-16 |
 | [remote-sessions](https://github.com/antoniolg/remote-sessions) | [v0.2.6](https://github.com/antoniolg/remote-sessions/releases/tag/v0.2.6) | 2026-11-11 |
 | [next-dj](https://github.com/antoniolg/next-dj) | [v0.1.7](https://github.com/antoniolg/next-dj/releases/tag/v0.1.7) | 2026-11-11 |
 | [justdoit](https://github.com/antoniolg/justdoit) | [v0.1.6](https://github.com/antoniolg/justdoit/releases/tag/v0.1.6) | 2026-11-06 |
